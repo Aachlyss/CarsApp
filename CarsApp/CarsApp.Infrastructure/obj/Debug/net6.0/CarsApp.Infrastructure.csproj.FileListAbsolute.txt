@@ -1,0 +1,14 @@
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\bin\Debug\net6.0\CarsApp.Infrastructure.deps.json
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\bin\Debug\net6.0\CarsApp.Infrastructure.runtimeconfig.json
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\bin\Debug\net6.0\CarsApp.Infrastructure.dll
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\bin\Debug\net6.0\CarsApp.Infrastructure.pdb
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.dll
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\refint\CarsApp.Infrastructure.dll
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.pdb
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\CarsApp.Infrastructure.genruntimeconfig.cache
+C:\Users\Ivan\Documents\Projects\CarsApp\CarsApp.Infrastructure\obj\Debug\net6.0\ref\CarsApp.Infrastructure.dll
